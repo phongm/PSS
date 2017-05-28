@@ -1,0 +1,26 @@
+[
+	{
+		"status":200,
+		"message":"sucess",
+		"data" : {
+			"phone" : "17780653294",
+			"nickname" : "admin",
+			"password" : "123456",
+			"sex" : "男",
+			"scroe" : 100,
+			"level" : "普通会员"
+		}
+	},
+	{
+		"status":200,
+		"message":"sucess",
+		"data" : {
+			"phone" : "18161214509",
+			"nickname" : "小龙",
+			"password" : "123456",
+			"sex" : "男",
+			"scroe" : 100,
+			"level" : "普通会员"
+		}
+	}
+]
